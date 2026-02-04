@@ -36,15 +36,14 @@ This project aims to:
 * dim_vehicle_type
 * dim_time_of_day
 * dim_lighting_condition
-
 ## This structure enables efficient filtering, aggregation, and scalable analysis.
 
 ## Dashboard Features
-* KPI cards summarizing the overall accident impact
-* Clustered bar chart comparing collisions, injuries, and deaths by county
 * A combo chart showing monthly injuries alongside fatality rate trends
 * A combo chart highlighting differences in fatality risk among vehicle types
 * A combo chart highlighting the fatality risk differences at different times of the day
+* Clustered bar chart comparing collisions, injuries, and deaths by county
+* KPI cards summarizing the overall accident impact
 * DAX-based metrics for dynamic calculations like total collisions, injuries, deaths, and death rate
 
 ## Y-Axis Choice
@@ -54,6 +53,7 @@ Collision, injury, and death counts are displayed on a primary Y-axis starting a
 <img width="1163" height="653" alt="image" src="https://github.com/user-attachments/assets/30eab3e9-a285-4059-b923-4386e3f9cb11" />
 
 ## Key Insights
+* Time of day significantly affects fatalility risk with time night collisions being disproportionately severe.
 * Counties with similar collision volumes can experience very different fatality outcomes.
 * In the simulation, fatality rates remain consistently above 20% throughout the year.
 * Certain vehicle types show higher death rates despite comparable collision counts.
