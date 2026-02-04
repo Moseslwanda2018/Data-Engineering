@@ -1,9 +1,8 @@
 # Road Accident Data Modeling and Analysis Dashboard (Power BI)
-
 # Project Overview
-This project analyzes road traffic collision data to uncover trends in fatalities, injuries,
-and high-risk conditions. The dashboard demonstrates data modeling, DAX, and storytelling
-capabilities using Power BI.
+This project analyzes road traffic collision data to uncover trends in collisions, fatalities, injuries,
+and high-risk conditions. The dashboard demonstrates data modeling process, DAX, and storytelling
+capabilities using Power BI dashboard.
 
 ## Objective
 This project aims to:
@@ -46,7 +45,10 @@ This project aims to:
 -	DAX-based metrics for dynamic calculations like total collisions, injuries, death, and death rate
 
 ## Y-Axis Choice
-Collision, injury and death counts are displayed on a primary Y-Axis starting at zero to preserve magnitude, while death rate (%) is plotted on a secondary axis with a focused range to make meaningful risk differences visible without distorting comparisons.”
+Collision, injury and death counts are displayed on a primary Y-Axis starting at zero to preserve magnitude, while death rate (%) is plotted on a secondary axis with a focused range to make meaningful risk differences visible without distorting comparisons.
+
+## Dashboard Preview
+<img width="1163" height="653" alt="image" src="https://github.com/user-attachments/assets/32818e16-62cb-4ccf-8219-cb1b357be793" />
 
 ## Key Insights
 -	Counties with similar collision volumes can experience very different fatality outcomes
