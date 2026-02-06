@@ -31,7 +31,8 @@ The simulation script generates:
 * Fatalities (deaths) and injuries
 * Temporal features (date, month, year)
 * Intentional missing values for realism
-**Simulation Script:**  
+  Simulation Script:
+  https://github.com/Moseslwanda2018/Data-Engineering/blob/main/simulated%20collisions%20data.R
 [`simulate_collision_data.R`](scripts/simulate_collision_data.R)
 
 ## Data Model
