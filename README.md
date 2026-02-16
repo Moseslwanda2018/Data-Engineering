@@ -1,15 +1,17 @@
-## Road Accident Data Modeling and Analysis Dashboard (Power BI)
+## Road Accident Data Modeling and Analysis Dashboard (Power BI and R Shiny)
 
 ## Project Overview
 This project analyzes road traffic collision data to uncover trends in collisions, fatalities, injuries,
-and high-risk conditions. The dashboard demonstrates data modeling process, DAX, and storytelling capabilities using Power BI.
+and high-risk conditions. The project demonstrates data generation process (simulation), data cleaning and modeling, dashboard (visualization) and predictive modeling, and storytelling capabilities using Power BI and R Shiny. This project was inspired by the general Power BI principles in End-to-End Analytics with Microsoft Power BI: Crash Course on Building Powerful Analytic Solutions (2022). (link: https://data-mozart.com/wp-content/uploads/2022/01/END-TO-END-ANALYTICS-WITH-MICROSOFT-POWER-BI.pdf)
 
 ## Objective
 This project aims to:
+* Generate road collision data among selected counties of Kenya.
 * Compare accident outcomes across counties.
 * Analyze differences between collision volume and fatality risk.
 * Explore monthly trends in injuries and fatality rates.
 * Identify vehicle types associated with higher death rates.
+* Predict the average road collisions and display results in R Shiny.
 * Demonstrate end-to-end BI development skills.
 
 ## Dataset
